@@ -1,0 +1,7 @@
+C:\csharp\Calculator2.0.1\Calculator2.0.1\bin\Debug\Calculator2.0.1.exe
+C:\csharp\Calculator2.0.1\Calculator2.0.1\bin\Debug\Calculator2.0.1.pdb
+C:\csharp\Calculator2.0.1\Calculator2.0.1\obj\x86\Debug\Calculator2._0._1.Form1.resources
+C:\csharp\Calculator2.0.1\Calculator2.0.1\obj\x86\Debug\Calculator2._0._1.Properties.Resources.resources
+C:\csharp\Calculator2.0.1\Calculator2.0.1\obj\x86\Debug\Calculator2.0.1.csproj.GenerateResource.Cache
+C:\csharp\Calculator2.0.1\Calculator2.0.1\obj\x86\Debug\Calculator2.0.1.exe
+C:\csharp\Calculator2.0.1\Calculator2.0.1\obj\x86\Debug\Calculator2.0.1.pdb

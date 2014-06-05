@@ -1,5 +1,5 @@
-Calculator application
-======================
+calculator
+==========
 
 ### General info
 * Version 2.0.1(C#, .Net 4.5)

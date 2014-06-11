@@ -9,4 +9,7 @@ Calculator is a small and simple stand alone application, build with C# and .NET
 * Created by Valery Y. Samovich
 * GUI
 
+### Developer info
+http://www.linkedin.com/pub/valery-samovich/22/81/1bb/
+
 
